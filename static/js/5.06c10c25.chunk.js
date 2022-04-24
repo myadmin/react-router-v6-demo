@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_router_v6_demo=self.webpackChunkreact_router_v6_demo||[]).push([[5],{5:function(e,r,t){t.r(r);t(2791);var u=t(6871),a=t(184);r.default=function(){var e=(0,u.UO)();return(0,a.jsxs)("div",{children:["User Detail - ",e.id]})}}}]);
+//# sourceMappingURL=5.06c10c25.chunk.js.map
