@@ -27,7 +27,7 @@ const detail = async () => {
     );
 };
 
-export default () => {
+const Home = () => {
     const { tableProps } = useAntdTable(async (param: paramProps) => {
         const { data }: any = await pageList(param);
         if (data.code) {
@@ -97,3 +97,5 @@ export default () => {
         </>
     );
 };
+
+export default Home;
