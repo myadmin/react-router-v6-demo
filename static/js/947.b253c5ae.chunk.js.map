@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/947.b253c5ae.chunk.js","mappings":"qJAMA,UANa,WACT,OACI","sources":["pages/Home/index.tsx"],"sourcesContent":["const Home = () => {\n    return (\n        <div>Home</div>\n    )\n}\n\nexport default Home;"],"names":[],"sourceRoot":""}
